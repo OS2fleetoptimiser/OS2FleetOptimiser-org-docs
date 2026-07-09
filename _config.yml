@@ -11,5 +11,5 @@ defaults:
     path: ""         # alle filer i hele repoet 
     type: "pages"    # markdown-sider 
   values: 
-  layout: "default" 
-  has_toc: false # fjerner 'Table of contents' på siderne. Det kan overskrives på siderne 
+    layout: "default" 
+    has_toc: false # fjerner 'Table of contents' på siderne. Det kan overskrives på siderne 
