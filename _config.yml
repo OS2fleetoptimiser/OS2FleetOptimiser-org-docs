@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Organisatorisk dokumentation på OS2FleetOptimiser
+description: Bliv klogere på hvordan du bliver klar til at implementere OS2FleetOptimiser og læs om projektperioden fra 2021-2024.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://os2fleetoptimiser.github.io/OS2FleetOptimiser-org-docs/
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
