@@ -60,4 +60,4 @@ formidle både muligheder og bekymringer mellem fagområdets personale og projek
 <br>
 
 ## Opmærksomhed: Er der et godt ledelsesophæng i jeres organisation?
-
+![Ledelsesophæng i jeres organisation](images/opmærksomhed_organisering.png)
