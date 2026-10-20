@@ -29,4 +29,4 @@ Det er en god idé at kontakte jeres informationssikkerheds-/GDPR-ansvarlige all
 
 Vi har herunder samlet de vigtigste pointer til den indledende dialog med jeres GDPR-ansvarlige:
 
-docs/Organisatorisk_implementering/images/dialog GDPR.png 
+![Illustration af dialog om GDPR](images/dialog_GDPR.png)
