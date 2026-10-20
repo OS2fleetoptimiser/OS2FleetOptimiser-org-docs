@@ -1,6 +1,6 @@
 ---
-title: Organisatorisk dokumentation
-layout: home
+title: Startside
+nav_order: 1
 ---
 
 ## Organisatorisk dokumentation ##
