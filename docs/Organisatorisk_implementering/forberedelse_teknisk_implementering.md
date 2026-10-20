@@ -41,8 +41,8 @@ Vi har herunder samlet de vigtigste pointer til den indledende dialog med jeres 
 ## To do: Få overblik over metadata på køretøjerne
 Udover GPS-data fra jeres flådestyringssystem, har FleetOptimiser også brug for nogle metadata på køretøjerne for at virke. Begynd allerede nu at få overblik over om I har metadata på bilerne og få udfyldt det i jeres flådestyringssystem de steder, hvor det eventuelt mangler. For at virke skal FleetOptimiser som minimum have følgende metadata:
 * Køretøjstype (fossilbil, elbil, cykel, elcykel)
-• Drivmiddel (benzin, diesel, el, hybrid, plug-in hybrid
-• Drivmiddelforbrug, km/L eller Wh/km
-• CO2-udledning g/km
-• Lokation - bilens hjemlokation
-• Leasingperiode, start- og slutdato, hvis jeres biler er leaset
+* Drivmiddel (benzin, diesel, el, hybrid, plug-in hybrid
+* Drivmiddelforbrug, km/L eller Wh/km
+* CO2-udledning g/km
+* Lokation - bilens hjemlokation
+* Leasingperiode, start- og slutdato, hvis jeres biler er leaset
