@@ -28,3 +28,5 @@ Eksempel på hvordan en API-nøgle kan se ud: gWCqezwlerkMIfu5hItQJ2Sg/Wc5Sk1tzl
 Det er en god idé at kontakte jeres informationssikkerheds-/GDPR-ansvarlige allerede nu og orientere om den igangværende proces med anskaffelsen af FleetOptimiser. På den måde er de klar til at hjælpe jer med at få indgået en databehandleraftale, når I kommer dertil.
 
 Vi har herunder samlet de vigtigste pointer til den indledende dialog med jeres GDPR-ansvarlige:
+
+docs/Organisatorisk_implementering/images/dialog GDPR.png 
