@@ -1,10 +1,10 @@
 ---
-title: Forberedelse til teknisk implementering
+title: Organisering
 parent: Sådan kommer du i gang
 nav_order: 2
 ---
 
-# Organisering
+# Organiseringsanbefalinger
 
 Skaleringsprojektets myndigheder udgør en guldgrube af gode erfaringer med at organisere og forankre FleetOptimiser.
 Nogle har båret FleetOptimiser ind via digitaliseringsafdelingen, andre direkte ind i den daglige drift af køretøjsflåden. Og begge veje er gode!
