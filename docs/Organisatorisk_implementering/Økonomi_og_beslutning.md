@@ -40,4 +40,4 @@ Find skabelonen her: https://boks.os2.eu/s/Hgtpa9e8nbSe73z
 Lav en tydelig rammesætning omkring projektet når I går i gang. Hvad vil I gerne opnå med
 implementeringen af FleetOptimiser? Hvilken historie er det I gerne vil fortælle om projektet og
 ambitionerne bag, både på den korte og den lange bane?
-
+![Illustration af dagsordener](fortælling_retning.png)
