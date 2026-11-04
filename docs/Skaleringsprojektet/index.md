@@ -6,4 +6,5 @@ has_children: true
 
 # Skaleringsprojektet
 
-Velkommen til Skaleringsprojektet. Skaleringsprojektet løb fra 2023-2024
+FleetOptimiser-projektet løb fra 2021-2024, først som et AI-signaturprojekt og efterfølgende som et skaleringsprojekt. I løbet af de fire år blev løsningen udviklet og tilpasset og skaleret fra fem til 14 offentlige organisationer. 
+Aarhus Kommune var projektleder på at udbrede og skalere konceptet.
