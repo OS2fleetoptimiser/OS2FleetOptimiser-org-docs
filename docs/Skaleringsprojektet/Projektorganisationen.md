@@ -29,22 +29,22 @@ Støttefunktionernes rolle er uddybet nedenfor.
 <details>
 <summary><strong>Styregruppe</strong></summary>
 
-<h3>Opgave</h3>
+<p><strong>Opgave</strong></p>
 
 <p>
-Styregruppen har blandt andet til opgave at understøtte projektgruppen med forankring, implementering og skalering af FleetOptimiser.
+Styregruppen har blandt andet til opgave at understøtte projektgruppen med forankring, implementering og skalering af FleetOptimiser. Herudover skal styregruppen hjælpe med at realisere projektets overordnede målsætning om at accelerere den grønne omstilling af transporten ved at skabe en CO2-neutral flåde ud fra nøgleprincippet om optimering samtidig med omstilling.
 </p>
 
-<h3>Sammensætning</h3>
+<p><strong>Sammensætning</strong></p>
 
 <p>
-Styregruppen er sammensat ud fra et ønske om at sikre repræsentation af større og mindre myndigheder.
+Styregruppen er sammensat ud fra et ønske om at sikre repræsentation af større og mindre myndigheder – både fra digitaliseringsområdet såvel som fagforvaltninger. Herudover er der taget højde for repræsentation af myndigheder, der allerede har implementeret FleetOptimiser samt myndigheder, der skal i gang med at etablere det tekniske og organisatoriske grundlag for implementeringen.
 </p>
 
-<h3>Mødefrekvens</h3>
+<p><strong>Mødefrekvens</strong></p>
 
 <p>
-Styregruppen mødes 6-8 gange om året eller efter behov.
+Styregruppen mødes 6-8 gange om året eller efter behov, hvis der er beslutninger, som kræver tættere og hyppigere drøftelser.
 </p>
 
 </details>
@@ -52,19 +52,19 @@ Styregruppen mødes 6-8 gange om året eller efter behov.
 <details>
 <summary><strong>Ledelse, kommunikation, forskning og sekretariat</strong></summary>
 
-<h3>Opgave</h3>
+<p><strong>Opgave</strong></p>
 
 <p>
 Projektets stabsfunktion er forankret i Aarhus Kommune og varetager opgaver inden for blandt andet kommunikation, koordinering og generel projektunderstøttelse.
 </p>
 
-<h3>Forskning</h3>
+<p><strong>Forskning</strong></p>
 
 <p>
 Projektets følgeforskning er forankret i et samarbejde mellem Aarhus Kommune og Aarhus Universitet i form af blandt andet en virksomheds-ph.d. Der forskes i digital forestillingsevne, ledelse af digital transformation samt skalering og spredning.
 </p>
 
-<h3>Sekretariat</h3>
+<p><strong>Sekretariat</strong></p>
 
 <p>
 Sekretariatsbetjeningen af styregruppen er også forankret i Aarhus Kommune.
@@ -75,19 +75,19 @@ Sekretariatsbetjeningen af styregruppen er også forankret i Aarhus Kommune.
 <details>
 <summary><strong>Produkt- og udviklingsteam</strong></summary>
 
-<h3>Opgave</h3>
+<p><strong>Opgave</strong></p>
 
 <p>
 Her samarbejder projektets myndigheder med projektets primære leverandør, Droids Agency, om tilpasning af FleetOptimiser, så værktøjet afspejler myndighedernes ønsker og behov.
 </p>
 
-<h3>Sammensætning</h3>
+<p><strong>Sammensætning</strong></p>
 
 <p>
 Tilpasning af FleetOptimiser sker i et tæt og brugerdrevet samarbejde med leverandøren. Produkt- og udviklingsteamet udvides løbende, efterhånden som flere myndigheder bliver klar til at tage FleetOptimiser i brug. Det er valgfrit, om og hvor ofte man ønsker at deltage i dette team.
 </p>
 
-<h3>Mødefrekvens</h3>
+<p><strong>Mødefrekvens</strong></p>
 
 <p>
 Produkt- og udviklingsteamet mødes ugentligt til et 20-minutters tjek-ind-møde. En gang om måneden mødes de til et udviklingsprioriteringsmøde, hvor udviklingsforslag gennemgås og diskuteres. Endelig mødes teamet, når der er behov for en præsentation af nye funktioner.
@@ -124,13 +124,13 @@ Syddjurs Kommune har stor erfaring med ledelse af AI-signaturprojekter og er tid
 <details>
 <summary><strong>Følgegruppe</strong></summary>
 
-<h3>Sammensætning</h3>
+<p><strong>Sammensætning</strong></p>
 
 <p>
 Projektet har tilknyttet en følgegruppe med repræsentanter fra Digitaliseringsstyrelsen (som har bevilliget midlerne til projektet) samt Kommunernes Landsforening (KL) og KOMBIT.
 </p>
 
-<h3>Opgave og mødefrekvens</h3>
+<p><strong>Opgave og mødefrekvens</strong></p>
 
 <p>
 Følgegruppen og projektets stabsfunktion fra Aarhus Kommune mødes en gang i kvartalet til en status samt sparring på retning og læring fra projektet.
