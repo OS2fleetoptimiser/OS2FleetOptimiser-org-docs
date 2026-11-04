@@ -7,7 +7,7 @@ nav_order: 1
 # Læs om den første version af FleetOptimiser
 FleetOptimiser er et datadrevet redskab, der anvender moderne allokeringsalgoritmer til at optimere flådesammensætning og tildelingen af køretøjer til ture.
 
-# billede mangler 
+![bil](images/bil.png) 
 Løsningen giver mulighed for at afprøve forskellige scenarier, hvor algoritmer foreslår en optimal sammensætning af flåden og beregner konsekvensen med det samme.
 
 ## FleetOptimiser har tre algoritmebaserede hovedfunktioner
@@ -21,7 +21,7 @@ FleetOptimiser kommer med forslag til det optimale antal og typer af køretøjer
 Algoritme kvalificerer tildelingen af køretøjer til ture ud fra kriterier, der optimerer på økonomi og CO2.
 
 Eksempel på simulering:
-# billede mangler 
+![simulering](images/simulering.png) 
 På illustrationen ses et skærmbillede fra løsningen, som viser, hvordan man kan arbejde med automatisk flådesammensætning og få konkrete forslag til fremtidig kapacitet og sammensætning af en flåde.
 
 
@@ -36,5 +36,7 @@ Udviklingsprocessen har fra start været centreret omkring brugernes ønsker og 
 
 ## Kildekode som Open Source
 Kildekoden til FleetOptimiser er udviklet som Open Source og kan hentes i nyeste version på GitHub:
-# link mangler 
+
+[Se kildekode på GitHub](Githubhttps://github.com/syddjurs/IFKK)
+
 Det betyder, at der ikke er kommercielle eller rettighedsmæssige begrænsninger i at skalere løsningen til hele den offentlige sektor.
