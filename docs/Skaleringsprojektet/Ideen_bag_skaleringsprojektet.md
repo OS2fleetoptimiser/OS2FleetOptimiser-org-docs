@@ -7,7 +7,7 @@ nav_order: 1
 # Ideen bag skaleringsprojektet
 Ideen bag skaleringsprojektet var at accelerere og øge ambitionsniveauet for CO2-reduktion fra transportsektoren i det offentlige. Derfor udbredte vi AI-redskabet FleetOptimiser i danske myndigheder.
 
-# billede mangler 
+![greenhygge](images/ideen_bag.png)
 
 Formålet med projektet er at udbrede løsningen FleetOptimiser til en række offentlige myndigheder.
 
