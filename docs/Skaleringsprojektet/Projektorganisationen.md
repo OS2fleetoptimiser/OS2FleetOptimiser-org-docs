@@ -15,7 +15,7 @@ Der er i arbejdsformen et stort fokus på, at projektet skal understøtte myndig
 
 ## Facilitering af netværk
 Projektets kerne mødes og samarbejder løbende i forskellige fora:
-![faellesskab](images/projektstøttefunktion.png)
+![faellesskab](images/projektstøttefunktioner.png)
 Formålet med de forskellige aktiviteter er først og fremmest at understøtte sparring og erfaringsudveksling på tværs af de deltagende myndigheder om alt fra flådestyring, forankring og implementering af FleetOptimiser til økonomi, klima og bæredygtighedstiltag. 
 Derudover understøtter organiseringen også videreudvikling af FleetOptimiser og løbende, fælles opgaver.
 
