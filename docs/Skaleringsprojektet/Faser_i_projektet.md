@@ -8,7 +8,7 @@ nav_order: 2
 # Faser i projektet
 Her får du et overblik over hvordan vi har arbejdet med faserne i projektet.
 
-# billede mangler
+![faser](images/faser.png)
 
 ## Projektfaser - overblik
 1. Opstart, etablering af agil arbejdsform og organisering i projektet
