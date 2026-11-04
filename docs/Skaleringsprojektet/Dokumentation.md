@@ -12,7 +12,7 @@ Her er materiale og dokumentation tilgængeligt fra skaleringsprojektet og AI-si
 
 
 ## Projektbeskrivelse
-[Ansøgning om midler fra til Digitaliseringsstyrelsens tilskudspulje for nye teknologier] (https://boks.os2.eu/s/ZTTxbedXsCcTAxe)
+[Ansøgning om midler fra til Digitaliseringsstyrelsens tilskudspulje for nye teknologier](https://boks.os2.eu/s/ZTTxbedXsCcTAxe)
 
 
 
