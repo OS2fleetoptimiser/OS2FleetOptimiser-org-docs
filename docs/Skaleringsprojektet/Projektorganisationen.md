@@ -29,13 +29,13 @@ Støttefunktionernes rolle er uddybet nedenfor.
 <details>
 <summary><strong>Styregruppe</strong></summary>
 
-### Opgave
+<h3>Opgave<h3>
 Styregruppen har blandt andet til opgave at understøtte projektgruppen med forankring, implementering og skalering af FleetOptimiser. Herudover skal styregruppen hjælpe med at realisere projektets overordnede målsætning om at accelerere den grønne omstilling af transporten ved at skabe en CO2-neutral flåde ud fra nøgleprincippet om optimering samtidig med omstilling.
 
-### Sammensætning
+<h3>Sammensætning<h3>
 Styregruppen er sammensat ud fra et ønske om at sikre repræsentation af større og mindre myndigheder - både fra digitaliseringsområdet såvel som fagforvaltninger. Herudover er der taget højde for repræsentation af myndigheder, der allerede har implementeret FleetOptimiser samt myndigheder, der skal i gang med at etablere det tekniske og organisatoriske grundlag forud for implementeringen.
 
-### Mødefrekvens
+<h3>Mødefrekvens<h3>
 Styregruppen mødes 6-8 gange om året eller efter behov, hvis der er beslutninger som kræver tættere og hyppigere drøftelser.
 
 </details>
@@ -43,13 +43,13 @@ Styregruppen mødes 6-8 gange om året eller efter behov, hvis der er beslutning
 <details>
 <summary><strong>Ledelse, kommunikation, forskning og sekretariat</strong></summary>
 
-### Opgave
+<h3>Opgave<h3>
 Projektets stabsfunktion er forankret i Aarhus Kommune og varetager opgaver inden for blandt andet kommunikation, koordinering og generel projektunderstøttelse.
 
-### Forskning
+<h3>Forskning<h3>
 Projektets følgeforskning er forankret i et samarbejde mellem Aarhus Kommune og Aarhus Universitet i form af blandt andet en virksomheds-ph.d. Der forskes i digital forestillingsevne, ledelse af digital transformation samt skalering og spredning.
 
-### Sekretariat
+<h3>Sekretariat<h3>
 Sekretariatsbetjeningen af styregruppen er også forankret i Aarhus Kommune.
 
 </details>
@@ -57,13 +57,13 @@ Sekretariatsbetjeningen af styregruppen er også forankret i Aarhus Kommune.
 <details>
 <summary><strong>Produkt- og udviklingsteam</strong></summary>
 
-### Opgave
+<h3>Opgave<h3>
 Her samarbejder projektets myndigheder med projektets primære leverandør, Droids Agency, om tilpasning af FleetOptimiser, så værktøjet afspejler myndighedernes ønsker og behov.
 
-### Sammensætning
+<h3>Sammensætning<h3>
 Tilpasning af FleetOptimiser sker i et tæt og brugerdrevet samarbejde med leverandøren. Produkt- og udviklingsteamet udvides løbende, efterhånden som flere myndigheder bliver klar til at tage FleetOptimiser i brug. Det er valgfrit om, og hvor ofte, man ønsker at deltage i dette team. 
 
-### Mødefrekvens
+<h3>Mødefrekvens<h3>
 Produkt- og udviklingsteamet mødes ugentligt til et 20-minutters tjek-ind møde. En gang om måneden mødes de til et udviklings-prioriteringsmøde, hvor udviklingsforslag gennemgås og diskuteres. Endelig mødes teamet, når der er behov for en præsentation af nye funktioner. 
 
 </details>
@@ -89,10 +89,10 @@ Syddjurs Kommune har stor erfaring med ledelse af AI-signaturprojekter og er tid
 <details>
 <summary><strong>Følgegruppe</strong></summary>
 
-### Sammensætning
+<h3>Sammensætning<h3>
 Projektet har tilknyttet en følgegruppe med repræsentanter fra Digitaliseringsstyrelsen (som har bevilliget midlerne til projektet) samt Kommunernes Landsforening (KL) og KOMBIT.
 
-### Opgave og mødefrekvens
+<h3>Opgave og mødefrekvens<h3>
 Følgegruppen og projektets stabsfunktion fra Aarhus Kommune mødes en gang i kvartalet til en status samt sparring på retning og læring fra projektet.
 
 </details>
