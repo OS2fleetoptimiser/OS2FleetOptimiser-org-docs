@@ -1,0 +1,17 @@
+---
+title: Baggrund
+parent: AI-signaturprojektet
+nav_order: 2
+---
+
+
+# Baggrund
+Det nuværende projekt tager afsæt i det succesfulde AI-signaturprojekt “Intelligent flådestyring og klimasmarte kørselsmønstre”, hvor fem kommuner i en brugerdrevet udviklingsproces har skabt den innovative AI-løsning: FleetOptimiser.
+
+# billede mangler 
+
+AI-signaturprojektet har vist, at det kan lade sig gøre at sætte fart på den grønne omstilling af transportområdet på en intelligent måde, hvor der på samme tid spares penge og CO2 - og uden at myndighedernes kerneopgave sættes over styr.
+
+Derfor er det nuværende projekts ambition at skalere løsningskonceptet og at få tempo ind i arbejdet med at høste gevinsterne.
+
+Opskaleringen er blevet mulig med støtte fra Digitaliseringsstyrelsens tilskudspulje for nye teknologier.
