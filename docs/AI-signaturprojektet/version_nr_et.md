@@ -7,7 +7,7 @@ nav_order: 1
 # Læs om den første version af FleetOptimiser
 FleetOptimiser er et datadrevet redskab, der anvender moderne allokeringsalgoritmer til at optimere flådesammensætning og tildelingen af køretøjer til ture.
 
-![bil](images/bil.png) 
+![billen](images/bil.png) 
 Løsningen giver mulighed for at afprøve forskellige scenarier, hvor algoritmer foreslår en optimal sammensætning af flåden og beregner konsekvensen med det samme.
 
 ## FleetOptimiser har tre algoritmebaserede hovedfunktioner
