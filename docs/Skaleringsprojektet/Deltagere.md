@@ -8,10 +8,10 @@ nav_order: 5
 # Deltagere i projektet 
 Her kan du se en oversigt over de offentlige organisationer der deltog i skaleringsprojektet
 ![deltagerne](images/deltagere.png)
-Billede fra kick off-arrangement i 2023
+Billedet er fra kick off-arrangement i 2023
 
 
-## Deltagerne er:
+## Deltagerne var:
 - Aalborg Kommune
 - Esbjerg Kommune
 - Favrskov Kommune
